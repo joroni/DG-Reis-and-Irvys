@@ -6,7 +6,7 @@ drupalgap.settings = {};
  ***************/
  
 // Site Path
-drupalgap.settings.site_path = ''; // e.g. http://www.example.com
+drupalgap.settings.site_path = 'http://m.reisandirvys.com/'; // e.g. http://www.example.com
 
 // Base Path
 drupalgap.settings.base_path = '/';
